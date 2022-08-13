@@ -1,0 +1,33 @@
+.titulo{
+    text-align: center;
+    display: block;
+}
+
+.teste{
+    border: 1px solid blue;
+    display: block;
+}
+/* Há dois tipos de displays: bloco e inline, e é possível determinar essas características pelo css */
+
+.blue{
+    background-color: aqua;
+
+}
+
+.red{
+    background-color: red;
+
+}
+
+.green{
+    background-color: green;
+
+}
+div{
+    width: 20%;
+    height: 50px;
+    display: inline-block;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 50px 50px 50px 50px;
+}

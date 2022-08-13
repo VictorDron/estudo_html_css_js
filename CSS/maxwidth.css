@@ -1,0 +1,10 @@
+.ex1{
+    border: 1px solid;
+
+    /* Ajuste automático de acordo com a tela */
+    max-width: 2000px;
+}
+.ex2{
+    border: 1px solid;
+    max-width: 2000px;
+}

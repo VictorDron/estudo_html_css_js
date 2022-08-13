@@ -1,0 +1,32 @@
+/* Seleção de tag para trabalhar */
+
+body{
+    background-color: white
+}
+
+h1{
+    /* Definição de cor do texto, pode ser definido pelo seu código*/
+    color:rgba(106, 170, 170, 0.87);
+
+    font-size: 50px;
+    font-style: italic;
+}
+
+P{
+    color: rgb(14, 14, 32);
+}
+
+/* Manipulação de classe */
+.center{
+    text-align: center;
+}
+
+.fonte{
+    font-size: 30px;
+}
+
+/* Identificador "ID" */
+#teste{
+    background-color: aqua;
+    color: black;
+}
