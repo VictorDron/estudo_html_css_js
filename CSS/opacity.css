@@ -1,0 +1,43 @@
+.img1{
+    /* Pode ser 0.0 até 1.0, define a opacidade */
+    opacity: 1 ;
+}
+
+.img1:hover{
+    /* Pode ser 0.0 até 1.0, define a opacidade */
+    opacity: 0.5 ;
+}
+
+
+.img2{
+    opacity: 1;
+}
+
+.img2:hover{
+    opacity: 0.5;
+}
+
+
+
+.img3{
+    opacity:1;
+}
+
+.img3:hover{
+    opacity:0.5;
+}
+
+.botao{
+    padding: 15px;
+    background-color: green;
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.botao:hover{
+    padding: 15px;
+    background-color: green;
+    color: aliceblue;
+    text-decoration: none;
+    opacity: 0.5;
+}
