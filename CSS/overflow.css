@@ -1,0 +1,13 @@
+
+.exemplo {
+
+    background-color: blue;
+    color: rgb(12, 11, 11);
+    height: 150px;
+    /* Configurar apariação de conteudo em relação à caixa, é necessário definir a altura*/
+    overflow: auto;
+}
+.body{
+    /* Desativa o scrol  */
+    overflow-y: hidden;
+}
