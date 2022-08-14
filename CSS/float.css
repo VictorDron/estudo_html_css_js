@@ -1,0 +1,10 @@
+.float{
+    border: 1px solid black;
+    overflow: auto;
+}
+
+.float img{
+
+    float: left;
+    margin-right: 20px;
+}
