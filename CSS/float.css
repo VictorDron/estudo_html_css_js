@@ -8,3 +8,35 @@
     float: left;
     margin-right: 20px;
 }
+
+.h3{
+    clear: both;
+
+}
+.lista{
+    background: black;
+
+}
+
+li{
+    display: inline-block;
+}
+li a {
+    padding: 20px;
+    text-decoration: none;
+    color:white
+    
+    
+}
+
+
+li a:hover{
+    background-color: antiquewhite;
+    color: black;
+}
+.login{
+    float: right;
+}
+.login a:hover{
+    background-color: azure;
+}
