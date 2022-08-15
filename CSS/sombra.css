@@ -1,0 +1,9 @@
+h1{
+
+    text-shadow: 1px 1px 10px;
+    color: rgb(147, 114, 190);
+}
+.mult{
+    color: black;
+    text-shadow: 0 0 3px, 2px 2px 5px;
+}
