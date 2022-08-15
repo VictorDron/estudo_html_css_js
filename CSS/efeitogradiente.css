@@ -1,0 +1,15 @@
+.gradiente{
+
+    max-width: 100%;
+    height: 300px;
+    /* Cria efeito gradiente, é possível determinar a ditância */
+    background-image: linear-gradient( to right, blue, red,yellow,green);
+
+    
+}
+
+.radial{
+    width: 100%;
+    height: 300px;
+    background-image: radial-gradient(rgb(127, 127, 230),blue);
+}
