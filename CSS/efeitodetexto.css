@@ -1,0 +1,26 @@
+.base{
+   
+    box-shadow: 1px 1px 10px;
+    color: rgb(147, 114, 190);
+    max-width: 400px;
+    height:  500px ;
+    text-align: center;
+}
+
+.img{
+
+    width: 100%;
+    height: 300px;
+
+}
+
+p{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.base:hover .p{
+    white-space: normal;
+
+}
