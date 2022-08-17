@@ -30,6 +30,7 @@
     }
 }
 
+
 /* Super Largos (Telas maiores laptops, desktops e até TVs, 1200px para cima) */
 @media only screen and (min-width: 1200px) {
     body{
@@ -37,3 +38,7 @@
         text-align: center;
     }
 }
+
+/* Super Largos (Telas maiores laptops, desktops e até TVs, 1200px para cima)  */
+@media only screen and (min-width: 1200px) {}
+
