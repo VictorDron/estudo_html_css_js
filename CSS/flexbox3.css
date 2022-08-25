@@ -1,0 +1,42 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container {
+
+
+    background: greenyellow;
+    display: flex;
+    flex-flow: row wrap;
+    height: 100px;
+    width: 100%;
+    text-align: center;
+    justify-content: center ;
+    align-items: center;
+    border: 1px solid black;
+}
+
+
+.son{
+    
+    margin-left: 10%;
+    border: 1px solid black ;
+    flex: 20%
+
+   
+}
+
+.son2{
+
+    margin-right: 10%;
+    flex: 60%;
+    border: 1px solid blueviolet ;
+}
+
+.header {
+    display: flex;
+    flex-flow: row wrap;
+    height: 500px;
+    border: 1px solid purple;
+}
