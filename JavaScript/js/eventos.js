@@ -17,7 +17,7 @@ onresize
 
 */
 
-function clickEvento(){
+function clickEvento() {
     alert('ACIONOU UM EVENTO DE CLICK');
 
 }
