@@ -39,4 +39,25 @@
     flex-flow: row wrap;
     height: 500px;
     border: 1px solid purple;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
 }
+
+.son3{
+    flex:40%;
+    border: 1px solid black;
+    height: 100%;
+    margin-left: 10%;
+}
+
+.son4{
+    
+    flex:40%;
+    border: 1px solid black;
+    height: 100%;
+    margin-right: 10%;
+}
+
+
+
