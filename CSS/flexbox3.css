@@ -52,11 +52,18 @@
 }
 
 .son4{
-    
+
     flex:40%;
     border: 1px solid black;
     height: 100%;
     margin-right: 10%;
+}
+
+.footer{
+    display: flex;
+    flex-flow: row wrap;
+    height: 300px;
+    border: 1px solid black;
 }
 
 
