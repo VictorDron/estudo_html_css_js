@@ -1,8 +1,8 @@
 .container{
 
     background-color: black;
-    /*  Para que os demais elementos possam se mover, é necessário a div  mão estar relative */
     position: relative;
+    /*  Para que os demais elementos possam se mover, é necessário a div  mão estar relative */
 
 }
 
