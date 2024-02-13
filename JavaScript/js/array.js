@@ -47,6 +47,7 @@ function Maior(array) {
 }
 let maior = Maior(numbers);
 
+
 //Filtragem
 const maior_que_quato = numbers.filter(filtragem);
 function filtragem (value, index, array){

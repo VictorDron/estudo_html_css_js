@@ -27,7 +27,7 @@ function validar (){
         p.innerHTML="O campo não ficar vazio";
         p.style.color="red";
 
-    }else{
+    }else {
 
         let p = document.getElementById("teste");
         p.innerHTML="Parabéns";
@@ -36,3 +36,15 @@ function validar (){
     }
 }
 
+
+let dron = "ok";
+//Se
+if (dron == "ok"){
+   console.log('Boom');
+   //Se então
+} else if(dron != "ok"){
+    console.log("Ruim");
+ //Se não
+} else{
+  console.log('Deu ruim');
+}
