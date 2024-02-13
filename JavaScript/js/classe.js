@@ -1,3 +1,8 @@
+//Funções para criação de objetos
+
+//Boa prática é iniciar com letra maiuscula
+
+
 class Carro {
     
     constructor(valor1,valor2,valor3){
@@ -10,4 +15,14 @@ class Carro {
 }
 
 const uno = new Carro("Fiat","Uno",2001);
-console.log(uno);
+const uno1 = new Carro ("BMW", "WAR");
+
+class Dron {
+    constructor(value1, value2){
+        this.i = value1;
+        this.x = value2;
+    }
+}
+
+const dron = new  Dron (20, 566666);
+console.log(dron);
