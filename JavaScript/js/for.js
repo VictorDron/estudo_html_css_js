@@ -1,3 +1,5 @@
+//Para funções repetidas
+
 // for (let i = 0; i<10001; i++) {
 //     document.getElementById("teste").innerHTML += i+", ";
 // }
@@ -12,6 +14,7 @@ const carros = ["Gol","Fusca","Brasília","Del rey","Chevete"];
 
 let tamanho = carros.length;
 
-for (let i=0; i<tamanho;i++){
-    document.getElementById("teste").innerHTML +=carros[i] + ", ";
+for (/*inicio da contagem*/let i=0;/*condição para a execução */ i<tamanho;/*Soma  mais um caso a condição seja atendida*/i++){
+    //O que será executado 
+    console.log(i);
 }
