@@ -20,14 +20,16 @@ const carro = {
 //Para mostra todos os elementos do objetos
 console.log(carro);
 //Para mostrar apenas um elemento específico
-console.log(carro.ano)
+//console.log(carro.ano)
 
 //Para mostrar apenas um elemento específico
-console.log(carro['ano'])
+///console.log(carro['ano'])
 
 /*
 Chamar uma função dentro de um objeto
 carro.buzina();
 */
 
-console.log(carro.completo());
+//console.log(carro.completo());
+
+console.log(carro[0]);
